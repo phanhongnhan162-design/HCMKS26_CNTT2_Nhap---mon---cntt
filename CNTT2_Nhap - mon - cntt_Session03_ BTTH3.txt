@@ -1,0 +1,22 @@
+﻿Bài 3 : Thiết kế hệ thống IoT thông minh và quản lý cấu hình 
+Mô hình DIKW cho hệ thống trang trại
+* Data (dữ liệu)
+* Thu thập thông tin về môi trường
+* Lượng mưa
+* Chỉ số độ ẩm
+* Ánh sáng
+
+
+* Information (thông tin)
+* Cung cấp thông tin cho chủ vườn
+* Hiển thị nhiệt độ và độ ẩm qua từng giờ
+
+
+* Knowledge (Hiểu biết)
+* Thiết lập các hệ thống bơm nước tự động
+* Cần lắp đặt thêm mái phía trên dạng kéo tránh bị nắng kiến chết khô hoặc mưa làm ngập úng
+
+
+* Wisdom (trí tuê)
+* Tối ưu hóa việc tưới nước thông qua dự báo thời tiết
+* Lắp hệ thống báo động cảm biến xung quanh khi các chỉ số về nhiệt độ và độ ẩm  có vấn đề
